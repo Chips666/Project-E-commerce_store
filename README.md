@@ -2,7 +2,9 @@
 
 A responsive phone store built with React 18, TypeScript, and Vite. The project uses SCSS (with Bulma), React Router, React Transition Group, and Font Awesome. Linting and formatting are set up via ESLint, Prettier, and Stylelint. Cypress is included and verified during post‑install. One‑command deployment to GitHub Pages is available.
 
+
 [Demo](https://team-project-phones-store.netlify.app)
+
 
 ## Tech stack
 - React 18 + TypeScript
